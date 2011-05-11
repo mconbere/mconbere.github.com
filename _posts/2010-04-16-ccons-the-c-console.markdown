@@ -21,4 +21,4 @@ After setting up all of the prerequisite tools, I could run my own C interpreter
     hello, world
     => (int) 13
 
-As of this point in time I must admit that I have yet to find a use for this, but I can't stop marveling at it. Perhaps now all the kids out there in love with their [_Erlang](http://pragprog.com/articles/erlang) and [_Scala_](http://translate.google.com/#it|en|scala) can finally start to learn a real programming language thanks to an easy to use interpreter!
+As of this point in time I must admit that I have yet to find a use for this, but I can't stop marveling at it. Perhaps now all the kids out there in love with their [_Erlang_](http://pragprog.com/articles/erlang) and [_Scala_](http://translate.google.com/#it|en|scala) can finally start to learn a real programming language thanks to an easy to use interpreter!
