@@ -3,8 +3,11 @@ layout: default
 title: Morgan Conbere
 ---
 
-<ul class="posts">
-{ for post in site.posts %}
-<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+Posts
+=====
+
+{% for post in site.posts %}
+{{ post.title }}
+================
+{{ post.date | date_to_string }} - {{ post.url }}
 {% endfor %}
-</ul>
