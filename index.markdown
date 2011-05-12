@@ -3,6 +3,36 @@ layout: default
 title: Morgan Conbere
 ---
 
+About
+=====
+
+This is the personal homepage of me, Morgan Conbere. I am a software developer
+currently living in San Francisco, and I find the term _homepage_ rather quaint.
+For ethical, moral, or spiritual advice, email me at
+[mconbere@gmail.com](mailto:mconbere@gmail.com).
+
+Résumé
+======
+
+You may be in the position to offer me the job of a lifetime, or perhaps want to
+grant me a large sum of money but want to review my accomplishments before your
+final decision. Fear not, for I have my résumé ready to review:
+* [Protocol buffer text format](https://github.com/mconbere/Resume/raw/master/mconbere/mconbere.ptxt)
+* [Markdown](http://protobuf-resume.appspot.com/pb?url=https%3A%2F%2Fgithub.com%2Fmconbere%2FResume%2Fraw%2Fmaster%2Fmconbere%2Fmconbere.ptxt)
+* [Formatted HTML](http://protobuf-resume.appspot.com/?url=https%3A%2F%2Fgithub.com%2Fmconbere%2FResume%2Fraw%2Fmaster%2Fmconbere%2Fmconbere.ptxt)
+
+Projects
+========
+
+* [Protobuf Résumé](http://github.com/mconbere/resume) Out of a desire to no
+  longer worry about formatting paper documents, and a love of tools that parse,
+  I designed a binary protocol buffer format to describe a résumé. The project
+  also includes tools to convert this format into Markdown and HTML.
+
+* [MacSweeper](http://code.google.com/p/macsweeper) Out of a desire to have a
+  chance to procrastinate while running OS X, I wrote a sleek port of
+  Microsoft's Minesweeper.
+
 Posts
 =====
 
