@@ -1,8 +1,7 @@
 html, body {
-    background-color: rgb(210, 221, 233);
+    font-family: Helvetica, sans-serif;
 }
 
 h1 {
-    font-family: Helvetica, sans-serif;
     font-variant: small-caps;
 }
