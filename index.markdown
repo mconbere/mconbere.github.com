@@ -6,9 +6,10 @@ title: Morgan Conbere
 About
 =====
 
-This is the personal homepage of me, Morgan Conbere. I am a software developer
-currently living in San Francisco, and I find the term _homepage_ rather quaint.
-For ethical, moral, or spiritual advice, email me at
+I was born in a small town. I crawled, ran, jumped and leaped through life to
+reach this very moment in time. Thank you for sharing this moment with me. In
+a more concrete sense, I am a software developer living in San Francisco. For
+ethical, moral, or spiritual advice, email me at
 [mconbere@gmail.com](mailto:mconbere@gmail.com).
 
 Résumé

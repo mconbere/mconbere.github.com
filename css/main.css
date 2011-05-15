@@ -1,7 +1,49 @@
 html, body {
-    font-family: Verdana, sans-serif;
+    background-color: rgb(105, 105, 105);
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    min-height: 100%;
+    position: relative;
+}
+
+#body {
+    padding: 10px;
+    padding-bottom: 6em;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 3em;
+    background: rgba(0, 0, 0, 0.3);
+    box-shadow: inset 0px 0.3em 0.5em rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: inset 0px 0.3em 0.5em rgba(0, 0, 0, 0.5);
 }
 
 h1 {
     font-variant: small-caps;
+}
+
+html {
+    font-family: Verdana, sans-serif;
+}
+
+#footer p {
+    margin: 0;
+    padding: 2ex 2em 0;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#footer p.left {
+	float: left;
+}
+
+#footer p.right {
+	float: right;
 }
