@@ -1,5 +1,4 @@
 html, body {
-    background-color: rgb(105, 105, 105);
     height: 100%;
     margin: 0;
     padding: 0;
@@ -11,6 +10,7 @@ html, body {
 }
 
 #body {
+    width: 108ex;
     padding: 10px;
     padding-bottom: 6em;
 }
