@@ -113,7 +113,7 @@ project: {
     }
 
     note: "Designed a protobuf representation of a résumé"
-    note: "Implemented supporting tools to transform a binary or textual protobuf resume into readable Markdown or HTML"
+    note: "Implemented supporting tools to transform a binary or textual protobuf résumé into readable Markdown or HTML"
 }
 
 project: {
