@@ -10,6 +10,7 @@ html, body {
 }
 
 #body {
+    margin: 3em auto 0;
     width: 108ex;
     padding: 10px;
     padding-bottom: 6em;
@@ -19,10 +20,6 @@ html, body {
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 3em;
-    background: rgba(0, 0, 0, 0.3);
-    box-shadow: inset 0px 0.3em 0.5em rgba(0, 0, 0, 0.5);
-    -webkit-box-shadow: inset 0px 0.3em 0.5em rgba(0, 0, 0, 0.5);
 }
 
 h1 {
@@ -33,6 +30,13 @@ html {
     font-family: Verdana, sans-serif;
 }
 
+#footer {
+    height: 3em;
+    background: rgba(0, 0, 0, 0.3);
+    box-shadow: inset 0px 0.3em 0.5em rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: inset 0px 0.3em 0.5em rgba(0, 0, 0, 0.5);
+}
+
 #footer p {
     margin: 0;
     padding: 2ex 2em 0;
@@ -40,10 +44,9 @@ html {
     text-shadow: black 0.1em 0.1em 0.2em;
 }
 
-#footer p.left {
-	float: left;
-}
-
-#footer p.right {
-	float: right;
-}
+#footer p.left { float: left; }
+#footer p.right { float: right; }
+#footer a:link { color: rgb(191, 209, 229); }
+#footer a:visited { color: rgb(233, 207, 236); }
+#footer a:active { color: white; }
+#footer a:hover { color: white; }
