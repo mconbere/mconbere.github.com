@@ -8,7 +8,7 @@ Since then I have been using C (or [C++](http://www.research.att.com/~bs/pronoun
 
 Recently, I have been very impressed with the [LLVM](http://llvm.org/) project. Apple has been using it, along with the [clang](http://clang.llvm.org/) frontend, as a replacement for GCC. Now, I realized upon seeing this, that there was an opportunity. LLVM offers [just-in-time](http://www.urbandictionary.com/define.php?term=jit) compilation; clang performs [parsing](http://upload.wikimedia.org/wikipedia/commons/3/30/Gruppe_Bisons_%28Bison_bison%29.JPG) of C. These two tools should theoretically be able to be combined into a C interpreter. How cool would that be?
 
-It was not cool enough for me to ever be motivated to write it. Luckily, someone had already written it for me. Introducing the absurdity that is [ccons](http://code.google.com/p/ccons/).
+It was not cool enough to motivate me to write it. Luckily, someone had already written it for me. Introducing the absurdity that is [ccons](http://code.google.com/p/ccons/).
 
 After setting up all of the prerequisite tools, I could run my own C interpreter:
 
@@ -21,4 +21,4 @@ After setting up all of the prerequisite tools, I could run my own C interpreter
     hello, world
     => (int) 13
 
-As of this point in time I must admit that I have yet to find a use for this, but I can't stop marveling at it. Perhaps now all everyone out there in love with [_Erlang_](http://pragprog.com/articles/erlang) and [_Scala_](http://translate.google.com/#it|en|scala) can finally start to learn a real programming language thanks to an easy to use interpreter!
+As of now I must admit that I have yet to find a use for this, but I can't stop marveling at it. Perhaps now everyone in love with [_Erlang_](http://pragprog.com/articles/erlang) and [_Scala_](http://translate.google.com/#it|en|scala) can finally start to learn a real programming language thanks to an easy to use interpreter!
