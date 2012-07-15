@@ -35,8 +35,8 @@ final decision. Fear not, for I have my résumé ready to review:
 * [Markdown](http://protobuf-resume.appspot.com/pb?url=https%3A%2F%2Fgithub.com%2Fmconbere%2FResume%2Fraw%2Fmaster%2Fmconbere%2Fmconbere.ptxt)
 * [Formatted HTML](http://protobuf-resume.appspot.com/?url=https%3A%2F%2Fgithub.com%2Fmconbere%2FResume%2Fraw%2Fmaster%2Fmconbere%2Fmconbere.ptxt)
 
-Projects
-========
+Diversions
+==========
 
 * [Protobuf Résumé](http://github.com/mconbere/resume) Out of a desire to no
   longer worry about formatting paper documents, and a love of tools that parse,
