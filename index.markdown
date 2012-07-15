@@ -38,6 +38,9 @@ final decision. Fear not, for I have my résumé ready to review:
 Diversions
 ==========
 
+* [Sudoku Solver](sudoku/sudoku.html) A simple little sudoku solver app written
+  in JavaScript.
+
 * [Protobuf Résumé](http://github.com/mconbere/resume) Out of a desire to no
   longer worry about formatting paper documents, and a love of tools that parse,
   I designed a binary protocol buffer format to describe a résumé. The project
