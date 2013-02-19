@@ -24,6 +24,8 @@ There are many ways of getting in contact with me. Here are some easy ways:
 * [LinkedIn profile](http://www.linkedin.com/in/mconbere)
 * [Email](mailto:mconbere@gmail.com)
 
+If in doubt, an email is probably the most efficient way to get ahold of me.
+
 Résumé
 ======
 
@@ -34,6 +36,8 @@ final decision. Fear not, for I have my résumé ready to review:
 * [Protocol buffer text format](https://github.com/mconbere/Resume/raw/master/mconbere/mconbere.ptxt)
 * [Markdown](http://protobuf-resume.appspot.com/pb?url=https%3A%2F%2Fgithub.com%2Fmconbere%2FResume%2Fraw%2Fmaster%2Fmconbere%2Fmconbere.ptxt)
 * [Formatted HTML](http://protobuf-resume.appspot.com/?url=https%3A%2F%2Fgithub.com%2Fmconbere%2FResume%2Fraw%2Fmaster%2Fmconbere%2Fmconbere.ptxt)
+
+You may be interested in creating a similarly-styled résumé. Fear not, the project is [hosted on github](https://github.com/mconbere/Resume)!
 
 Diversions
 ==========
@@ -48,7 +52,8 @@ Diversions
 
 * [MacSweeper](http://code.google.com/p/macsweeper) Out of a desire to
   procrastinate while running OS X, I wrote a sleek port of Microsoft's
-  Minesweeper.
+  Minesweeper. Note: sleek for the time. This was originally written around 2006,
+  and is showing its age.
 
 Posts
 =====
