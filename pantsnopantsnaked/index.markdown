@@ -12,9 +12,9 @@ Rules
 -----
 
 Ordering:
-  1. Pants beats No Pants
-  1. No Pants beats Naked
-  1. Naked beats Pants
+  1. *Pants* beats *No Pants*
+  1. *No Pants* beats *Naked*
+  1. *Naked* beats *Pants*
 
 Game play:
   1. Two people hide themselves from each other (behind a doorway), and prepare their choice.
