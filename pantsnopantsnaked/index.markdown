@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Pant! No Pants! Naked!
+title: Pants! No Pants! Naked!
 ---
 
 # Pants! No Pants! Naked!
