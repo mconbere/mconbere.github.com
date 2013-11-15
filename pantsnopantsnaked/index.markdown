@@ -25,9 +25,9 @@ How to play *Pants! No Pants! Naked!*
   
 ### Notes:
 
-1.  Often played best two out of three.
-2.  Ties require a repeat.
-3.  Arguing over the exact definition of *"No Pants"* is encouraged.
+-  Often played best two out of three.
+-  Ties require a repeat. Bowties optional.
+-  Arguing over the exact definition of *"No Pants"* is encouraged.
   
 ### Notable variations:
 
