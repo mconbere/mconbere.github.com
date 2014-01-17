@@ -39,6 +39,11 @@ final decision. Fear not, for I have my résumé ready to review:
 
 You may be interested in creating a similarly-styled résumé. Fear not, the project is [hosted on github](https://github.com/mconbere/Resume)!
 
+Salary
+======
+
+To improve transparency and reduce inequality in the workplace, I choose to publish my salary publicly. [See More](salary/index.html).
+
 Diversions
 ==========
 
@@ -54,6 +59,8 @@ Diversions
   procrastinate while running OS X, I wrote a sleek port of Microsoft's
   Minesweeper. Note: sleek for the time. This was originally written around 2006,
   and is showing its age.
+
+* [Pants! No Pants! Naked!](pantsnopantsnaked/index.html) A game similar to Rock Paper Scissors. But more fun.
 
 Posts
 =====
