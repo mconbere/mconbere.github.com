@@ -1,1 +1,2 @@
 include: ["vittles"]
+markdown: kramdown
