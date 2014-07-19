@@ -20,16 +20,18 @@ For more information about why I’m providing this, here is some interesting re
 
 * [Gender Equality Is a Myth!](http://shriverreport.org/gender-equality-is-a-myth-beyonce/) - “Men have to demand that their wives, daughters, mothers, and sisters earn more—commensurate with their qualifications and not their gender”
 
-## Salary (Current as of January 2014)
+* [When the Boss Says, 'Don't Tell Your Coworkers How Much You Get Paid'](http://www.theatlantic.com/business/archive/2014/07/when-the-boss-says-dont-tell-your-coworkers-how-much-you-get-paid/374467/) - “Ledbetter’s case shows how pay secrecy can cause the pay gap between men and women, a gap that widens between men and women of color.”
+
+## Salary (Current as of July 2014)
 
 * Google, Inc. Software Engineer III (January 2014, promotion)
-  $130,300, 15% target bonus
+  $130,300, 15% target bonus, 157 RSUs granted
 
 * Google, Inc. Software Engineer II (January 2013, raise)
-  $107,500, 15% target bonus (actual: $23,600)
+  $107,500, 15% target bonus (actual: $23,600), 60 RSUs granted
 
 * Google, Inc. Sofware Engineer II (August 2011, new hire)
-  $102,000, 15% target bonus (actual: $6,670, $21,000)
+  $102,000, 15% target bonus (actual: $6,670, $21,000), 125 RSUs granted
 
 * Plausible Labs Cooperative, Employee (September 2010, new hire)
   $70,000
