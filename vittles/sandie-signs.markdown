@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 24.5 Signs You're Named Sandie (Spelled With an "ie") and Having a 24.5 Year Crisis
+title: 12 Signs You're Named Sandie (Spelled With an "ie") and Having a Quarter Life Crisis
 ---
 
-24.5 Signs You're Named Sandie (Spelled With an "ie") and Having a 24.5 Year Crisis
+12 Signs You're Named Sandie (Spelled With an "ie") and Having a Quarter Life Crisis
 ====
 
 ## 1. It upsets you that sometimes you get ready for bed and then get a last minute invite for an awesome brunch
@@ -59,30 +59,3 @@ title: 24.5 Signs You're Named Sandie (Spelled With an "ie") and Having a 24.5 Y
 ## 12. A snuggie is appropriate beachwear.
 
 <img src="http://i.imgur.com/W4jhS6Q.jpg">
-
-## 13. 
-
-## 14. 
-
-## 15. 
-
-## 16. 
-
-## 17. 
-
-## 18. 
-
-## 19.
-
-## 20.
-
-## 21. 
-
-## 22. 
-
-## 23.
-
-## 24.
-
-## 24.5.
-
