@@ -3,7 +3,19 @@
 <head>
   <title>Spoken URLs</title>
 </head>
-<body>
+<body onload="load()">
   <script src="mespeak.js"></script>
+  <script>
+    meSpeak.loadConfig("config.json");
+    meSpeak.loadVoice("en-wm.json");
+    
+    function load() {
+      console.log("loaded!");
+    }
+  </script>
+  
+  Enter a URL:
+  <input id="url" type="text"></input>
+  <button id="speakButton">SPEAK</button>
 </body>
 </html>
