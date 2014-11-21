@@ -9,8 +9,37 @@
     meSpeak.loadConfig("config.json");
     meSpeak.loadVoice("en-wm.json");
     
+    function speakeasy(url) {
+      return url.split("").map(function(l) {
+        if (l == ":") return "colon";
+        if (l == "/") return "slash";
+        if (l == ".") return "period";
+        if (l == "?") return "question mark";
+        if (l == ";") return "semicolon";
+        if (l == "&") return "ampersand";
+        if (l == "@") return "at sign";
+        if (l == "$") return "dollar sign";
+        if (l == "%") return "percent sign";
+        if (l == "+") return "plus";
+        if (l == "=") return "equals";
+        if (l == "-") return "dash";
+        if (l == "_") return "underscore";
+        return l
+      }).join(" ");
+    }
+    
     function load() {
-      console.log("loaded!");
+      var url = document.getElementById("url");
+      var speakButton = document.getElementById("speakButton");
+      
+      speakButton.onclick = function() {
+        var text = url.value;
+        if (text.length == 0) return;
+        
+        var clean = speakeasy(text);
+        console.log("clean text: " + clean);
+        meSpeak.speak(clean);
+      }
     }
   </script>
   
