@@ -24,7 +24,7 @@ There are many ways of getting in contact with me. Here are some easy ways:
 * [LinkedIn profile](http://www.linkedin.com/in/mconbere)
 * [Email](mailto:mconbere@gmail.com)
 
-If in doubt, an email is probably the most efficient way to get ahold of me.
+If in doubt, an email is probably best.
 
 Résumé
 ======
