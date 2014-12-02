@@ -62,8 +62,8 @@ Diversions
 
 * [Pants! No Pants! Naked!](pantsnopantsnaked/index.html) A game similar to Rock Paper Scissors. But more fun.
 
-Posts
-=====
+Little Bits of Writing
+======================
 
 {% for post in site.posts %}
 * [{{ post.title }} -- {{ post.date | date_to_string }}]({{ post.url}})
