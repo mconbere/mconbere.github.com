@@ -7,9 +7,7 @@ title: Salary
 
 ## Disclaimer
 
-A complete history of my salary as a software engineer in San Francisco. Transparency in salary
-information may create an environment where we can reduce salary inequality. I don’t provide this
-information to cause social discomfort. Instead, this information may be useful if you are negotiating
+This is a complete history of my salary as a software engineer in San Francisco. I strongly believe that transparency in salary information can create an environment where we can reduce salary inequality. I don’t provide this information to cause social discomfort. Instead, this information may be useful if you are negotiating
 a job in a similar line of work and are in an underrepresented and disadvantaged group.
 
 For more information about why I’m providing this, here is some interesting reading:
@@ -22,10 +20,15 @@ For more information about why I’m providing this, here is some interesting re
 
 * [When the Boss Says, 'Don't Tell Your Coworkers How Much You Get Paid'](http://www.theatlantic.com/business/archive/2014/07/when-the-boss-says-dont-tell-your-coworkers-how-much-you-get-paid/374467/) - “Ledbetter’s case shows how pay secrecy can cause the pay gap between men and women, a gap that widens between men and women of color.”
 
-## Salary (Current as of July 2014)
+* [Charlize Theron Proved You're Better Off When You Know Your Co-Workers' Pay](http://www.huffingtonpost.com/2015/01/12/charlize-theron-equal-pay_n_6456332.html) - “At least one good thing came out of the massive Sony Pictures hack—a big raise for Charlize Theron. It's the latest proof that transparency can level the playing field for women seeking equal pay for equal work.”
+
+## Salary (Current as of January 2015)
+
+* Google, Inc. Software Engineer III (January 2015, raise)
+  $134,000, 15% target bonus
 
 * Google, Inc. Software Engineer III (January 2014, promotion)
-  $130,300, 15% target bonus, 157 RSUs granted
+  $130,300, 15% target bonus (actual: $25,000), 157 RSUs granted
 
 * Google, Inc. Software Engineer II (January 2013, raise)
   $107,500, 15% target bonus (actual: $23,600), 60 RSUs granted
