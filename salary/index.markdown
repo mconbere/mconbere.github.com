@@ -3,7 +3,7 @@ layout: default
 title: Salary
 ---
 
-# Morgan Conbere's Salary
+# Morgan Conbere’s Salary
 
 ## Disclaimer
 
@@ -18,7 +18,7 @@ For more information about why I’m providing this, here is some interesting re
 
 * [Gender Equality Is a Myth!](http://shriverreport.org/gender-equality-is-a-myth-beyonce/) - “Men have to demand that their wives, daughters, mothers, and sisters earn more—commensurate with their qualifications and not their gender”
 
-* [When the Boss Says, 'Don't Tell Your Coworkers How Much You Get Paid'](http://www.theatlantic.com/business/archive/2014/07/when-the-boss-says-dont-tell-your-coworkers-how-much-you-get-paid/374467/) - “Ledbetter’s case shows how pay secrecy can cause the pay gap between men and women, a gap that widens between men and women of color.”
+* [When the Boss Says, ‘Don’t Tell Your Coworkers How Much You Get Paid’](http://www.theatlantic.com/business/archive/2014/07/when-the-boss-says-dont-tell-your-coworkers-how-much-you-get-paid/374467/) - “Ledbetter’s case shows how pay secrecy can cause the pay gap between men and women, a gap that widens between men and women of color.”
 
 * [Charlize Theron Proved You're Better Off When You Know Your Co-Workers' Pay](http://www.huffingtonpost.com/2015/01/12/charlize-theron-equal-pay_n_6456332.html) - “At least one good thing came out of the massive Sony Pictures hack—a big raise for Charlize Theron. It's the latest proof that transparency can level the playing field for women seeking equal pay for equal work.”
 
