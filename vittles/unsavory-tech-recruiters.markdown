@@ -6,10 +6,10 @@ title: Unsavory Tech Recruiters
 Unsavory Tech Recruiters
 ====
 
-Nate Morse <nate@sumologic.com>
-Apr 4
+_Subject:_ Morgan, Sumo Logic would like to speak with you!
+_From:_ Nate Morse <nate@sumologic.com>
+_Date:_ Apr 4
 
-to me 
 Hey Morgan,
 
 Hope you are having an awesome Saturday!
@@ -28,10 +28,10 @@ Best,
 Nate
 
 
-Nate Morse <nate@sumologic.com>
-Apr 11
+_Subject:_ Morgan, Sumo Logic would like to speak with you!
+_From:_ Nate Morse <nate@sumologic.com>
+_Date:_ Apr 11
 
-to me 
 Hi Morgan,
 
 Hope your having an awesome weekend!
@@ -46,10 +46,10 @@ Best,
 Nate
 
 
-Nate Morse <nate@sumologic.com>
-Apr 11
+_Subject:_ Morgan, Sumo Logic would like to speak with you!
+_From:_ Nate Morse <nate@sumologic.com>
+_Date:_ Apr 11
 
-to me 
 Hey Morgan,
 
 Hope you are having an awesome Saturday!
@@ -68,10 +68,10 @@ Best,
 Nate
 
 
-Nate Morse <nate@sumologic.com>
-Apr 14
+_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
+_From:_ Nate Morse <nate@sumologic.com>
+_Date:_ Apr 14
 
-to me 
 Hey Morgan,
 
 Just wondered if you had a chance to see my message :).
@@ -80,33 +80,33 @@ Best,
 Nate
 
 
-Morgan Conbere <mconbere@gmail.com>
-Apr 14
+_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
+_From:_ Morgan Conbere <mconbere@gmail.com>
+_Date:_ Apr 14
 
-to Nate
 Hi Nate,
 
 I get a lot of emails like these from a lot of different recruiters. If I replied to all of them, I wouldn't have time to do anything else. But today, your fourth email has inspired me to write back.
 
-"Your work at Google impressed my team."
+> Your work at Google impressed my team.
 
 Google employs on the order of 30,000 engineers. Being impressed that I'm part of Google devalues my individuality and indicates that your company is looking for cogs rather than free thinking people. It would have been much better to find out something about my actual work and start with that.
 
-"We have processed over 5 quadrillion logs"
+> We have processed over 5 quadrillion logs
 
 I work at Google. Trying to impress me with numbers is going to be a losing game. If you're trying to entice an engineer at a company like Google, it'd be much better to talk about how your data is interesting rather than how much of it you have.
 
-"Our technology is our true differentiator"
+> Our technology is our true differentiator
 
 At this point in reading your recruiting message, I have no idea what you do. Saying that the technology, rather than the product itself, is a differentiator doesn't give me confidence that there's anything interesting to work on. Talking about the ways that you're harnessing interesting technology to make a compelling product, and briefly explaining that problem, would help interest me.
 
 Morgan
 
 
-Nate Morse
-Apr 14
+_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
+_From:_ Nate Morse <nate@sumologic.com>
+_Date:_ Apr 14
 
-to me 
 Hey Morgan, I very much appreciate the feedback. It is usually hard to paint a descriptive message over email. 
 
 I tried to give a brief introduction of the company to spark some sort of interest in learning more, in which case I could better describe how you could be a fit and why you should consider working here over the phone.
@@ -117,10 +117,10 @@ Best,
 Nate
 
 
-Nate Morse
-Apr 14
+_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
+_From:_ Nate Morse <nate@sumologic.com>
+_Date:_ Apr 14
 
-to me 
 Hey  Morgan,
 
  I always love to get these types of emails as I feel they help hone my craft. A few things about your email I would love your feedback on, if you don't mind having an open dialogue.
@@ -141,10 +141,10 @@ Thanks for responding,
 Nate
 
 
-Nate Morse
-Apr 18
+_Subject:_ Morgan, Sumo Logic would like to speak with you!
+_From:_ Nate Morse <nate@sumologic.com>
+_Date:_ Apr 18
 
-to me 
 Hey Morgan,
 
 Hope you are having the best weekend ever!
@@ -158,10 +158,10 @@ Best,
 Nate
 
 
-Nate Morse
-Apr 21
+_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
+_From:_ Nate Morse <nate@sumologic.com>
+_Date:_ Apr 21
 
-to me 
 Hey Morgan,
 
 Just wondered if you had a chance to see my message :).
@@ -170,10 +170,10 @@ Best,
 Nate
 
 
-Morgan Conbere <mconbere@gmail.com>
-Apr 21
+_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
+_From:_ Morgan Conbere <mconbere@gmail.com>
+_Date:_ Apr 21
 
-to Nate 
 Hey Nate,
 
 I seem to be on a never-ending automated email loop of yours. Please don't contact me further. From the template emails I've received from you, I've gained a pretty negative view of how Sumo Logic operates, which probably isn't your intention.
@@ -181,20 +181,20 @@ I seem to be on a never-ending automated email loop of yours. Please don't conta
 Morgan
 
 
-Nate Morse
-Apr 21
+_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
+_From:_ Nate Morse <nate@sumologic.com>
+_Date:_ Apr 21
 
-to me 
 Hey Morgan,
 
 I am very sorry. I don't know why it keeps wanting to send emails to you. I have contacted the company but they have not gotten back to me. I hope you forgive me, it is not my intention to keep sending you emails. 
 It should stop.
 
 
-Nate Morse
-May 2
+_Subject:_ Morgan, Sumo Logic would like to speak with you!
+_From:_ Nate Morse <nate@sumologic.com>
+_Date:_ May 2
 
-to me 
 Hey Morgan,
 
 Hope your Saturday is treating you well!
@@ -213,17 +213,18 @@ Best,
 Nate
 
 
-Morgan Conbere <mconbere@gmail.com>
-May 4
+_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
+_From:_ Morgan Conbere <mconbere@gmail.com>
+_Date:_ May 4
 
-to Nate 
 Nate,
 
 Seriously!?
 
 
-Nate Morse
-May 4
+_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
+_From:_ Nate Morse <nate@sumologic.com>
+_Date:_ May 4
 
 to me 
 I am so dumb I am so sorry. I thought I deleted your email from my list of good engineers..you might be on multiple lists...ahhh
