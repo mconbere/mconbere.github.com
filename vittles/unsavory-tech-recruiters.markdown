@@ -6,9 +6,9 @@ title: Unsavory Tech Recruiters
 Unsavory Tech Recruiters
 ====
 
-_Subject:_ Morgan, Sumo Logic would like to speak with you!
-_From:_ Nate Morse <nate@sumologic.com>
-_Date:_ Apr 4
+__Subject:__ Morgan, Sumo Logic would like to speak with you! <br>
+__From:__ Nate Morse <nate@sumologic.com> <br>
+__Date:__ Apr 4 <br>
 
 Hey Morgan,
 
@@ -28,9 +28,9 @@ Best,
 Nate
 
 
-_Subject:_ Morgan, Sumo Logic would like to speak with you!
-_From:_ Nate Morse <nate@sumologic.com>
-_Date:_ Apr 11
+__Subject:__ Morgan, Sumo Logic would like to speak with you!
+__From:__ Nate Morse <nate@sumologic.com>
+__Date:__ Apr 11
 
 Hi Morgan,
 
@@ -46,9 +46,9 @@ Best,
 Nate
 
 
-_Subject:_ Morgan, Sumo Logic would like to speak with you!
-_From:_ Nate Morse <nate@sumologic.com>
-_Date:_ Apr 11
+__Subject:__ Morgan, Sumo Logic would like to speak with you!
+__From:__ Nate Morse <nate@sumologic.com>
+__Date:__ Apr 11
 
 Hey Morgan,
 
@@ -68,9 +68,9 @@ Best,
 Nate
 
 
-_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
-_From:_ Nate Morse <nate@sumologic.com>
-_Date:_ Apr 14
+__Subject:__ re: Morgan, Sumo Logic would like to speak with you!
+__From:__ Nate Morse <nate@sumologic.com>
+__Date:__ Apr 14
 
 Hey Morgan,
 
@@ -80,9 +80,9 @@ Best,
 Nate
 
 
-_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
-_From:_ Morgan Conbere <mconbere@gmail.com>
-_Date:_ Apr 14
+__Subject:__ re: Morgan, Sumo Logic would like to speak with you!
+__From:__ Morgan Conbere <mconbere@gmail.com>
+__Date:__ Apr 14
 
 Hi Nate,
 
@@ -103,9 +103,9 @@ At this point in reading your recruiting message, I have no idea what you do. Sa
 Morgan
 
 
-_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
-_From:_ Nate Morse <nate@sumologic.com>
-_Date:_ Apr 14
+__Subject:__ re: Morgan, Sumo Logic would like to speak with you!
+__From:__ Nate Morse <nate@sumologic.com>
+__Date:__ Apr 14
 
 Hey Morgan, I very much appreciate the feedback. It is usually hard to paint a descriptive message over email. 
 
@@ -117,9 +117,9 @@ Best,
 Nate
 
 
-_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
-_From:_ Nate Morse <nate@sumologic.com>
-_Date:_ Apr 14
+__Subject:__ re: Morgan, Sumo Logic would like to speak with you!
+__From:__ Nate Morse <nate@sumologic.com>
+__Date:__ Apr 14
 
 Hey  Morgan,
 
@@ -141,9 +141,9 @@ Thanks for responding,
 Nate
 
 
-_Subject:_ Morgan, Sumo Logic would like to speak with you!
-_From:_ Nate Morse <nate@sumologic.com>
-_Date:_ Apr 18
+__Subject:__ Morgan, Sumo Logic would like to speak with you!
+__From:__ Nate Morse <nate@sumologic.com>
+__Date:__ Apr 18
 
 Hey Morgan,
 
@@ -158,9 +158,9 @@ Best,
 Nate
 
 
-_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
-_From:_ Nate Morse <nate@sumologic.com>
-_Date:_ Apr 21
+__Subject:__ re: Morgan, Sumo Logic would like to speak with you!
+__From:__ Nate Morse <nate@sumologic.com>
+__Date:__ Apr 21
 
 Hey Morgan,
 
@@ -170,9 +170,9 @@ Best,
 Nate
 
 
-_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
-_From:_ Morgan Conbere <mconbere@gmail.com>
-_Date:_ Apr 21
+__Subject:__ re: Morgan, Sumo Logic would like to speak with you!
+__From:__ Morgan Conbere <mconbere@gmail.com>
+__Date:__ Apr 21
 
 Hey Nate,
 
@@ -181,9 +181,9 @@ I seem to be on a never-ending automated email loop of yours. Please don't conta
 Morgan
 
 
-_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
-_From:_ Nate Morse <nate@sumologic.com>
-_Date:_ Apr 21
+__Subject:__ re: Morgan, Sumo Logic would like to speak with you!
+__From:__ Nate Morse <nate@sumologic.com>
+__Date:__ Apr 21
 
 Hey Morgan,
 
@@ -191,9 +191,9 @@ I am very sorry. I don't know why it keeps wanting to send emails to you. I have
 It should stop.
 
 
-_Subject:_ Morgan, Sumo Logic would like to speak with you!
-_From:_ Nate Morse <nate@sumologic.com>
-_Date:_ May 2
+__Subject:__ Morgan, Sumo Logic would like to speak with you!
+__From:__ Nate Morse <nate@sumologic.com>
+__Date:__ May 2
 
 Hey Morgan,
 
@@ -213,18 +213,18 @@ Best,
 Nate
 
 
-_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
-_From:_ Morgan Conbere <mconbere@gmail.com>
-_Date:_ May 4
+__Subject:__ re: Morgan, Sumo Logic would like to speak with you! <br>
+__From:__ Morgan Conbere <mconbere@gmail.com> <br>
+__Date:__ May 4 <br>
 
 Nate,
 
 Seriously!?
 
 
-_Subject:_ re: Morgan, Sumo Logic would like to speak with you!
-_From:_ Nate Morse <nate@sumologic.com>
-_Date:_ May 4
+__Subject:__ re: Morgan, Sumo Logic would like to speak with you! <br>
+__From:__ Nate Morse <nate@sumologic.com> <br>
+__Date:__ May 4 <br>
 
 to me 
 I am so dumb I am so sorry. I thought I deleted your email from my list of good engineers..you might be on multiple lists...ahhh
