@@ -239,5 +239,4 @@ __Subject:__ re: Morgan, Sumo Logic would like to speak with you! <br>
 __From:__ Nate Morse <nate@sumologic.com> <br>
 __Date:__ May 4 <br>
 
-to me 
 I am so dumb I am so sorry. I thought I deleted your email from my list of good engineers..you might be on multiple lists...ahhh
