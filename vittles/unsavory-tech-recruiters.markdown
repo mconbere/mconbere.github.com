@@ -131,7 +131,7 @@ Hey  Morgan,
 
  I always love to get these types of emails as I feel they help hone my craft. A few things about your email I would love your feedback on, if you don't mind having an open dialogue.
 
-"Google employs on the order of 30,000 engineers. Being impressed that I'm part of Google devalues my individuality and indicates that your company is looking for cogs rather than free thinking people. It would have been much better to find out something about my actual work and start with that."
+> Google employs on the order of 30,000 engineers. Being impressed that I'm part of Google devalues my individuality and indicates that your company is looking for cogs rather than free thinking people. It would have been much better to find out something about my actual work and start with that.
 
 As I understand it, Google's culture is to not be a cog in a wheel, even though some might feel that way. The Google culture values transparency and freedom. I have never worked there but that is my understand from speaking with many engineers from Google and hearing people like Lazlo speak.  I also realize that the scale of what you are working on is typically much larger than the average engineer. I do this to let candidates know that this is not completely random spam.
 
@@ -139,7 +139,7 @@ As for starting with the technology, I did try to do some research on your backg
 
 I do realize that Google processes quite a bit of data and petabytes to petabytes, we will never win. The situation we can win is that when we are processing 20PB of data per day, it is with a company 1/300th the size. The impact you can have is massive.  Is there a way that I can better get that idea across? I always feel like it sounds like every other startup email when you mention that though.
 
-"At this point in reading your recruiting message, I have no idea what you do. Saying that the technology, rather than the product itself, is a differentiator doesn't give me confidence that there's anything interesting to work on. Talking about the ways that you're harnessing interesting technology to make a compelling product, and briefly explaining that problem, would help interest me."
+> At this point in reading your recruiting message, I have no idea what you do. Saying that the technology, rather than the product itself, is a differentiator doesn't give me confidence that there's anything interesting to work on. Talking about the ways that you're harnessing interesting technology to make a compelling product, and briefly explaining that problem, would help interest me.
 
 Commonly, startups have a unique business strategy or marketing play that might give them a distinct advantage. For us, it is our technology. We have built a log management product in the cloud. Most do not know what that really means, but the core differentiator of our product is really that we are a SaaS cloud based service as opposed to an appliance, which currently serves as the industry standard. Is there a better way I can position the messaging to have people understand the technology?
 
