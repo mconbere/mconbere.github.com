@@ -3,6 +3,8 @@ layout: default
 title: Morgan Conbere
 ---
 
+<img class="header" src="img/header.jpg" width="100%">
+
 About
 =====
 
