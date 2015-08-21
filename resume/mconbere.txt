@@ -11,7 +11,7 @@ phone_number: "(415) 646-5987"
 
 education {
     institute: "Harvey Mudd College"
-    address: {
+    address {
         line: "340 E. Foothill Blvd."
         line: "Claremont, CA 91711"
     }
