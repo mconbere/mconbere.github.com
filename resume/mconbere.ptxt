@@ -1,7 +1,7 @@
 ---
 ---
 name: "Morgan A. Conbere"
-address: {
+address {
     line: "3425 19th St. Apt. 17"
     line: "San Francisco, CA 94110"
 }
@@ -9,70 +9,71 @@ website: "http://morgan.conbere.org"
 email_address: "mconbere@gmail.com"
 phone_number: "(415) 646-5987"
 
-education: {
+education {
     institute: "Harvey Mudd College"
     address: {
         line: "340 E. Foothill Blvd."
         line: "Claremont, CA 91711"
     }
     degree: "B.S., Computer Science"
-    date_range: {
-        began: {
+    date_range {
+        began {
             year: 2004
             month: AUGUST
         }
-        ended: {
+        ended {
             year: 2008
             month: MAY
         }
     }
 
-    note: "3.5 in major GPA, 3.3 overall. Graduated with honors. Dean's list all semesters."
+    note: "Graduated with honors; Dean's list all semesters"
     note: "Broad Computer Science education: Operating Systems, Programming Languages, Algorithms, Robotics, Chip design"
 }
 
-employment: {
+employment {
     company: "Google"
     title: "Software Engineer"
-    date_range: {
-        began: {
+    date_range {
+        began {
             year: 2011
             month: AUGUST
         }
     }
     
     note: "Spam and abuse prevention infrastructure"
+    note: "Distributed systems in C++ and Go using standard Google infrastructure"
 }
 
-employment: {
+employment {
     company: "Plausible Labs Cooperative, Inc."
     title: "Software Engineer"
     website: "http://plausible.coop"
-    date_range: {
-        began: {
+    date_range {
+        began {
             year: 2010
             month: SEPTEMBER
         }
-        ended: {
+        ended {
             year: 2011
             month: MAY
         }
     }
 
-    note: "Engineer at 4 person software cooperative focussing on mobile development contracting."
+    note: "Engineer at 4 person software cooperative focussing on mobile development contracting"
     note: "Maintained and overhauled to the popular Comics iOS application"
 }
 
-employment: {
+employment {
     company: "OnLive, Inc."
     title: "Member of Technical Staff, Mac lead"
     website: "http://onlive.com"
-    date_range: {
-        began: {
+    date_range {
+        began {
             year: 2008
             month: JUNE
         }
-        ended: {
+        ended {
             year: 2010
             month: SEPTEMBER
         }
@@ -83,15 +84,15 @@ employment: {
     note: "Implemented low latency audio and video presentation layers"
 }
 
-employment: {
+employment {
     company: "Microsoft / Harvey Mudd College"
     title: "Hardware Accelerated Perceptual Image Filtering"
-    date_range: {
-        began: {
+    date_range {
+        began {
             year: 2007
             month: SEPTEMBER
         }
-        ended: {
+        ended {
             year: 2008
             month: MAY
         }
@@ -101,15 +102,15 @@ employment: {
     note: "Designed and implemented innovated perceptual image filters involving saturation contrast and HDR bilateral filtering"
 }
 
-employment: {
+employment {
     company: "Harvey Mudd College"
     title: "Dormitory Proctor"
-    date_range: {
-        began: {
+    date_range {
+        began {
             year: 2007
             month: MAY
         }
-        ended: {
+        ended {
             year: 2008
             month: MAY
         }
@@ -121,12 +122,12 @@ employment: {
     note: "Responded to campus emergencies"
 }
 
-project: {
+project {
     title: "Protobuf Résumé"
     role: "Creator"
     website: "http://github.com/mconbere/Resume"
-    date_range: {
-        began: {
+    date_range {
+        began {
             year: 2011
             month: APRIL
         }
@@ -136,15 +137,15 @@ project: {
     note: "Implemented supporting tools to transform a binary or textual protobuf résumé into readable Markdown or HTML"
 }
 
-project: {
+project {
     title: "OpenCV: Open Computer Vision Library"
     role: "Contributor"
-    date_range: {
-        began: {
+    date_range {
+        began {
             year: 2007
             month: MAY
         }
-        ended: {
+        ended {
             year: 2008
             month: DECEMBER
         }
@@ -155,16 +156,16 @@ project: {
     note: "Used libraries to promote educational robotics"
 }
 
-project: {
+project {
     title: "MacSweeper: A Minesweeper clone for OS X"
     role: "Creator"
     website: "http://code.google.com/p/macsweeper/"
-    date_range: {
-        began: {
+    date_range {
+        began {
             year: 2007
             month: JUNE
         }
-        ended: {
+        ended {
             year: 2009
             month: OCTOBER
         }
@@ -174,7 +175,7 @@ project: {
     note: "Maintained as an open source project"
 }
 
-publication: {
+publication {
     title: "Toys and Tools: Accessible Robotics via Laptop Computers"
     author: "Morgan Conbere"
     author: "Zachary Dodds"
@@ -182,7 +183,7 @@ publication: {
     url: "http://robotics.cs.brown.edu/aaai07/materials/hmc_paper.pdf"
 }
 
-publication: {
+publication {
     title: "Environments for a Networking Laboratory"
     author: "Morgan Conbere"
     author: "Mike Erlinger"
