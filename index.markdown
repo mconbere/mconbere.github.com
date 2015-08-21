@@ -33,9 +33,9 @@ You may be in the position to offer me the job of a lifetime, or perhaps want to
 grant me a large sum of money but want to review my accomplishments before your
 final decision. Fear not, for I have my résumé ready to review:
 
-* [Protocol buffer text format](resume/mconbere.ptxt)
-* [Markdown](http://protobuf-resume.appspot.com/pb?url=https%3A%2F%2Fgithub.com%2Fmconbere%2FResume%2Fraw%2Fmaster%2Fmconbere%2Fmconbere.ptxt)
-* [Formatted HTML](http://protobuf-resume.appspot.com/?url=https%3A%2F%2Fgithub.com%2Fmconbere%2FResume%2Fraw%2Fmaster%2Fmconbere%2Fmconbere.ptxt)
+* [Protocol buffer text format](resume/mconbere.txt)
+* [Markdown](http://protobuf-resume.appspot.com/pb?url=https%3A%2F%2Fmorgan.conbere.org%2Fresume%2Fmconbere.txt)
+* [Formatted HTML](http://protobuf-resume.appspot.com/?url=https%3A%2F%2Fmorgan.conbere.org%2Fresume%2Fmconbere.txt)
 
 You may be interested in creating a similarly-styled résumé. Fear not, the project is [hosted on github](https://github.com/mconbere/Resume)!
 
