@@ -1,8 +1,9 @@
 ---
 # Laws of Internet Conversation
 
-The internet has found itself full of self-indulgent named laws. These laws govern internet
-conversations. Possibly for the worse.
+The internet has found itself full of self-indulgent named laws. These laws pop up in comments
+and message boards, and are usually used in a dismissive manner to stifle conversation. Here are
+translations for the unanointed.
 
 ## [Rule 34](https://en.wikipedia.org/wiki/Rule_34_(Internet_meme))
 
