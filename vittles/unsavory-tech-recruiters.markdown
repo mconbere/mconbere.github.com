@@ -327,7 +327,7 @@ RSVP (http://driveshift.com/engineering/events/forgery-bar-10-14-2015)
 
 driveshift.com (http://www.driveshift.com)
 
-__Subject:__ What the heck is Shift?
+__Subject:__ What the heck is Shift? <br>
 __From:__ Ray Mirza <ray.mirza@driveshift.com> <br>
 __Date:__ Fri, Oct 16, 2015 at 5:08 PM <br>
 
@@ -344,7 +344,7 @@ I’d love to hear your thoughts and discuss the opportunity further. Let me kno
 Thanks,
 Ray
 
-__Subject:__ Re: What the heck is Shift?
+__Subject:__ Re: What the heck is Shift? <br>
 __From:__ Ray Mirza <ray.mirza@driveshift.com> <br>
 __Date:__ Tue, Oct 20, 2015 at 12:41 PM <br>
 
@@ -359,7 +359,7 @@ Let me know when you're available this week and I'll accommodate your schedule.
 Thanks,
 Ray
 
-__Subject:__ Re: What the heck is Shift?
+__Subject:__ Re: What the heck is Shift? <br>
 __From:__ Morgan Conbere <mconbere@gmail.com> <br>
 __Date:__ Tue, Oct 20, 2015 at 1:42 PM <br>
 
