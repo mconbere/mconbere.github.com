@@ -3,8 +3,9 @@ layout: default
 title: Unsavory Tech Recruiters
 ---
 
-Unsavory Tech Recruiters
-====
+# Unsavory Tech Recruiters
+
+## #1: [Sumo Logic](https://www.sumologic.com)
 
 __Subject:__ Morgan, Sumo Logic would like to speak with you! <br>
 __From:__ Nate Morse <nate@sumologic.com> <br>
@@ -240,3 +241,135 @@ __From:__ Nate Morse <nate@sumologic.com> <br>
 __Date:__ May 4 <br>
 
 I am so dumb I am so sorry. I thought I deleted your email from my list of good engineers..you might be on multiple lists...ahhh
+
+## #2: [Shift](http://driveshift.com)
+
+__Subject:__ What is Puppycorn Wrangling? <br>
+__From:__ Justin D'Agostino <justinrecruits@gmail.com> <br>
+__Date:__ Wed, Nov 5, 2014 at 5:50 PM <br>
+
+Hey Morgan, I'm looking for top-tier talent for a new startup called ShiftCars. I noticed in your interests that you're in to puppycorn wrangling. What is that? Might it have anything to do with wanting to be the 4th engineer at a new startup that just closed a huge round of Series A funding? 
+
+Cheers,
+
+Justin D'Agostino
+Recruiter
+602.957.2329
+Connect with me on Linkedin
+
+__Subject:__ Re: What is Puppycorn Wrangling? <br>
+__From:__ Justin D'Agostino <justinrecruits@gmail.com> <br>
+__Date:__ Thu, Nov 6, 2014 at 8:46 PM <br>
+
+Hey Morgan, really hoping to find out what puppycorn wrangling is. Please do tell.
+
+__Subject:__ Re: What is Puppycorn Wrangling? <br>
+__From:__ Justin D'Agostino <justinrecruits@gmail.com> <br>
+__Date:__ Thu, Dec 11, 2014 at 12:06 PM <br>
+
+Hi Morgan,
+
+Wanted to follow up on my email from last month regarding Shift. Any interest in exploring this? I'm looking for a top class engineer to join their founding team. I'd love to hear back. Also, still wondering what puppycorn wrangling is. 
+
+www.driveshift.com
+WSJ Article
+
+Justin D'Agostino
+602-957-2329
+
+__Subject:__ You're Invited to Celebrate Shift's Series B Raise! <br>
+__From:__ Shift <no-reply@driveshift.com> <br>
+__Date:__ Fri, Sep 25, 2015 at 5:30 PM <br>
+
+You're invited
+
+To celebrate our latest round of funding
+party
+
+Join Shift's engineering and design teams to celebrate our latest round of funding. Hear a little about our plans for the future and stay for great conversation, drinks, and appetizers at Forgery Bar.
+
+When
+
+Wednesday, October 14th
+6pm - 9pm
+
+Where
+
+Forgery Bar <br>
+1525 Mission St <br>
+San Francisco CA 94103 <br>
+RSVP (http://driveshift.com/engineering/events/forgery-bar-10-14-2015)
+
+driveshift.com (http://www.driveshift.com)
+
+__Subject:__ RSVP Reminder <br>
+__From:__ Shift <no-reply@driveshift.com> <br>
+__Date:__ Fri, Sep 25, 2015 at 5:30 PM <br>
+
+You're invited
+
+To celebrate our latest round of funding
+party
+
+Join Shift's engineering and design teams to celebrate our latest round of funding. Hear a little about our plans for the future and stay for great conversation, drinks, and appetizers at Forgery Bar.
+
+When
+
+Wednesday, October 14th
+6pm - 9pm
+
+Where
+
+Forgery Bar <br>
+1525 Mission St <br>
+San Francisco CA 94103 <br>
+RSVP (http://driveshift.com/engineering/events/forgery-bar-10-14-2015)
+
+driveshift.com (http://www.driveshift.com)
+
+__Subject:__ What the heck is Shift?
+__From:__ Ray Mirza <ray.mirza@driveshift.com> <br>
+__Date:__ Fri, Oct 16, 2015 at 5:08 PM <br>
+
+Hi Morgan, 
+
+Hope your week went well and you're ready for the weekend. My name is Ray and I’m part of the Talent team here at Shift.  First off I read your LinkedIn, took your advice and did my homework. I read your resume in code format online, checked out your salaries (bold btw), and feel you could be an awesome addition to our team. 
+
+Little bit about us....We’re building a peer-to-peer car marketplace to make the process of buying and selling a car convenient and hassle free. We recently raised $50 million in a Series B funding round, and are assembling an all-star engineering team to go after a $1.2 trillion market. Technology has disrupted the taxi and hotel industry (Uber/Airbnb)...imagine joining Shift now and doing the same for the car market.
+
+We ask our engineers to own their work, prioritize as they please, and meet often to re-evaluate where the focus needs to be. Part of our company goal is to assemble the best minds in the business, who want to build something amazing, because this market is wide open and untapped. 
+
+I’d love to hear your thoughts and discuss the opportunity further. Let me know if you're free for a quick chat. 
+
+Thanks,
+Ray
+
+__Subject:__ Re: What the heck is Shift?
+__From:__ Ray Mirza <ray.mirza@driveshift.com> <br>
+__Date:__ Tue, Oct 20, 2015 at 12:41 PM <br>
+
+Hi Morgan,
+ 
+Hope all is well! I sent you an email few days ago about an opportunity with Shift, and wanted see if you had a chance to look it over?
+ 
+Even if you're slightly interested about what we're doing it would be worth jumping on a quick 5 minute call. Worst case you get to learn about an exciting new company thats going to disrupt a $1.2 trillion industry. 
+ 
+Let me know when you're available this week and I'll accommodate your schedule. 
+
+Thanks,
+Ray
+
+__Subject:__ Re: What the heck is Shift?
+__From:__ Morgan Conbere <mconbere@gmail.com> <br>
+__Date:__ Tue, Oct 20, 2015 at 1:42 PM <br>
+
+Hi Ray,
+
+I can't respond to all the recruiter requests I get. I don't think this is unique to many in the industry. Getting continuous requests and followups like this is really neither polite nor sustainable.
+
+Also, I neither own nor drive a car. I don't think there's anything exciting or disruptive about a new way of selling single occupancy vehicles that clog our cities and destroy our shared environment.
+
+This is the 7th recruiting email I've received from shift. I've found them pushy and presumptive. Please improve your recruiting practices.
+
+Best,
+Morgan
