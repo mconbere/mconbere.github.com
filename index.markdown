@@ -35,11 +35,11 @@ You may be in the position to offer me the job of a lifetime, or perhaps want to
 grant me a large sum of money but want to review my accomplishments before your
 final decision. Fear not, for I have my résumé ready to review:
 
-* [Protocol buffer text format](resume/mconbere.txt)
-* [Markdown](http://protobuf-resume.appspot.com/pb?url=http%3A%2F%2Fmorgan.conbere.org%2Fresume%2Fmconbere.txt)
-* [Formatted HTML](http://protobuf-resume.appspot.com/?url=http%3A%2F%2Fmorgan.conbere.org%2Fresume%2Fmconbere.txt)
+* [Protocol buffer text format](https://goresume-2015.appspot.com/?text=true&output=text&url=http://morgan.conbere.org/resume/mconbere.txt)
+* [Markdown](https://goresume-2015.appspot.com/?text=true&output=markdown&url=http://morgan.conbere.org/resume/mconbere.txt)
+* [Formatted HTML](https://goresume-2015.appspot.com/?text=true&output=html&url=http://morgan.conbere.org/resume/mconbere.txt)
 
-You may be interested in creating a similarly-styled résumé. Fear not, the project is [hosted on github](https://github.com/mconbere/Resume)!
+You may be interested in creating a similarly-styled résumé. Fear not, the project is [hosted on github](https://github.com/mconbere/goresume)!
 
 Salary
 ======
@@ -52,7 +52,7 @@ Diversions
 * [Sudoku Solver](sudoku/sudoku.html) A simple little sudoku solver app written
   in JavaScript.
 
-* [Protobuf Résumé](http://github.com/mconbere/resume) Out of a desire to no
+* [Protobuf Résumé](http://github.com/mconbere/goresume) Out of a desire to no
   longer worry about formatting paper documents, and a love of tools that parse,
   I designed a binary protocol buffer format to describe a résumé. The project
   also includes tools to convert this format into Markdown and HTML.
