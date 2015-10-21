@@ -42,6 +42,7 @@ employment {
         ended {
             year: 2015
             month: SEPTEMBER
+        }
     }
     
     note: "Spam and abuse prevention infrastructure"
