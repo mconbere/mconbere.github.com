@@ -129,7 +129,7 @@ employment {
 project {
     title: "Protobuf Résumé"
     role: "Creator"
-    website: "http://github.com/mconbere/goesume"
+    website: "http://github.com/mconbere/goresume"
     date_range {
         began {
             year: 2011
