@@ -32,6 +32,18 @@ education {
 }
 
 employment {
+    company: "Token Transit, Inc."
+    title: "Founder"
+    website: "http://www.tokentransit.com"
+    date_range {
+        began {
+            year: 2015
+            month: DECEMBER
+        }
+    }
+}
+
+employment {
     company: "Google"
     title: "Software Engineer"
     date_range {
