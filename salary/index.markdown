@@ -24,13 +24,13 @@ For more information about why I’m providing this, here is some interesting re
 
 ## Salary (Current as of January 2015)
 
-| Job Title | Date | Reason | Compensation
-| --------- | ---- | ------ | ------------
-| Token Transit, Inc. Founder | December 2015 | founding | $0
-| Google, Inc. Software Engineer III | January 2015 | raise | $134,000, 15% target bonus (left before bonus awarded)
-| Google, Inc. Software Engineer III | January 2014 | promotion | $130,300, 15% target bonus (actual: $25,000, 19.2%), 157 RSUs granted
-| Google, Inc. Software Engineer II | January 2013 | raise | $107,500, 15% target bonus (actual: $23,600, 22%), 60 RSUs granted
-| Google, Inc. Sofware Engineer II | August 2011 | new hire | $102,000, 15% target bonus (actual: $6,670, $21,000, 21%), 125 RSUs granted
-| Plausible Labs Cooperative, Employee | September 2010 | new hire | $70,000 (below market rate)
-| OnLive, Inc. Member of Technical Staff | January 2009 | raise | $88,000
-| Onlive, Inc. Member of Technical Staff | June 2008 | new hire | $80,000
+|               Job Title                | Date           | Reason    | Compensation
+| -------------------------------------- | -------------- | --------- | ------------
+| Token Transit, Inc. Founder            | December 2015  | founding  | $0
+| Google, Inc. Software Engineer III     | January 2015   | raise     | $134,000, 15% target bonus (left before bonus awarded), 160 RSUs granted
+| Google, Inc. Software Engineer III     | January 2014   | promotion | $130,300, 15% target bonus (actual: $25,000, 19.2%), 157 RSUs granted
+| Google, Inc. Software Engineer II      | January 2013   | raise     | $107,500, 15% target bonus (actual: $23,600, 22%), 60 RSUs granted
+| Google, Inc. Sofware Engineer II       | August 2011    | new hire  | $102,000, 15% target bonus (actual: $6,670, $21,000, 21%), 125 RSUs granted
+| Plausible Labs Cooperative, Employee   | September 2010 | new hire  | $70,000 (below market rate)
+| OnLive, Inc. Member of Technical Staff | January 2009   | raise     | $88,000
+| Onlive, Inc. Member of Technical Staff | June 2008      | new hire  | $80,000
