@@ -64,6 +64,8 @@ Diversions
 
 * [Pants! No Pants! Naked!](pantsnopantsnaked/index.html) A game similar to Rock Paper Scissors. But more fun.
 
+* [The Baseball Design Pattern](http://morgan.conbere.org/baseball-design/) There is one rule: You may not return. You may only catch and throw. A fun twist on writing C++ and Java code. See the repository for examples and user testimonials.
+
 Little Bits of Writing
 ======================
 
