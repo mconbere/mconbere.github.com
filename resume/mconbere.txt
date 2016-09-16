@@ -38,7 +38,7 @@ employment {
     date_range {
         began {
             year: 2015
-            month: DECEMBER
+            month: SEPTEMBER
         }
     }
 }
