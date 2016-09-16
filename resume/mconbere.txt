@@ -27,7 +27,6 @@ education {
         }
     }
 
-    note: "Graduated with honors; Dean's list all semesters"
     note: "Broad Computer Science education: Operating Systems, Programming Languages, Algorithms, Robotics, Chip design"
 }
 
