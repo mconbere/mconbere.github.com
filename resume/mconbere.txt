@@ -208,4 +208,4 @@ publication {
     url: "http://hyperdisc.unitec.ac.nz/naccq07/proceedings/papers/53.pdf"
 }
 
-formatted_url: "http://protobuf-resume.appspot.com/?url=http%3A%2F%2Fmorgan.conbere.org%2Fresume%2Fmconbere.txt"
+formatted_url: "https://goresume-2015.appspot.com/?text=true&output=html&url=http://morgan.conbere.org/resume/mconbere.txt"
