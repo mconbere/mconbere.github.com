@@ -242,6 +242,30 @@ __Date:__ May 4 <br>
 
 I am so dumb I am so sorry. I thought I deleted your email from my list of good engineers..you might be on multiple lists...ahhh
 
+<hr>
+
+__Subject:__ Morgan, LogicHub would like to speak with you! <br>
+__From:__ Nate Morse <nate@logichub.com> <br>
+__Date:__ Oct 12 <br>
+
+Hey Morgan,
+
+Your work building large scale distributed systems at Google impressed my team.
+
+I am a recruiter for LogicHub -- a Security Intelligence Automation startup that helps security teams capture and automate the investigation process used in threat detection. We thought you would be a good fit on our Data Platform team.
+
+There are two really interesting technical challenges here - massive data processing and intelligence automation. Typically enterprises generate terabytes of security data every day from applications, devices, systems and so on. In order to detect an advanced threat in this sea of data, our systems need to be very performant and scalable. We need to apply scalable Machine Learning techniques to this huge amount of data - so that we can capture how security analysts investigate and automate that process.
+
+We have $8.5 million in funding from Storm Ventures and Nexus Venture Partners. Our founding team has deep domain experience building products in the security space for 15+ years from companies like ArcSight and Sumo Logic.
+
+Do you have a few minutes next week for a quick call?
+
+Best,
+Nate
+
+Nate Morse
+LogicHub
+
 ## #2: [Shift](http://driveshift.com)
 
 __Subject:__ What is Puppycorn Wrangling? <br>
