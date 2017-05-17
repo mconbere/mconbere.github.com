@@ -22,7 +22,7 @@ For more information about why I’m providing this, here is some interesting re
 
 * [Charlize Theron Proved You’re Better Off When You Know Your Co-Workers’ Pay](http://www.huffingtonpost.com/2015/01/12/charlize-theron-equal-pay_n_6456332.html) - “At least one good thing came out of the massive Sony Pictures hack—a big raise for Charlize Theron. It’s the latest proof that transparency can level the playing field for women seeking equal pay for equal work.”
 
-## Salary (Current as of January 2015)
+## Salary (Current as of May 2017)
 
 |               Job Title                | Date           | Reason    | Compensation
 | -------------------------------------- | -------------- | --------- | ------------
