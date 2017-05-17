@@ -26,6 +26,7 @@ For more information about why I’m providing this, here is some interesting re
 
 |               Job Title                | Date           | Reason    | Compensation
 | -------------------------------------- | -------------- | --------- | ------------
+| Token Transit, Inc. Founder & CEO      | May 2017       | raise     | $60,000
 | Token Transit, Inc. Founder            | December 2015  | founding  | $0
 | Google, Inc. Software Engineer III     | January 2015   | raise     | $134,000, 15% target bonus (left before bonus awarded), 160 RSUs granted
 | Google, Inc. Software Engineer III     | January 2014   | promotion | $130,300, 15% target bonus (actual: $25,000, 19.2%), 157 RSUs granted
