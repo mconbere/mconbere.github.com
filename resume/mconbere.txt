@@ -32,7 +32,7 @@ education {
 
 employment {
     company: "Token Transit, Inc."
-    title: "Founder"
+    title: "CEO & Co-founder"
     website: "http://www.tokentransit.com"
     date_range {
         began {
